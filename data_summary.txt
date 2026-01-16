@@ -1,0 +1,7 @@
+World Economic Outlook - Cleaned Data Summary
+==================================================
+Generated on: 2026-01-14 17:26:20.074675
+Full dataset rows: 418,608
+Unique countries: 210
+Unique indicators: 145
+Year range: 1980 - 2030
